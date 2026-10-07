@@ -1,5 +1,7 @@
 # Hi there, I'm Shahzaib 👋
 
+🌐 **Portfolio:** [shahzaib371-ai.github.io/portfolio](https://shahzaib371-ai.github.io/portfolio/)
+
 ## 🚀 What I Do
 
 I build machine learning models and data-driven apps focused on real-world problems.
@@ -25,7 +27,7 @@ I build machine learning models and data-driven apps focused on real-world probl
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vscode&logoColor=white" alt="VS Code"/>
 </div>
 
 ## 🎓 Academic Pursuits
